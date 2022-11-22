@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int nilaiUTS;
+    int nilaiUAS;
+    int nilaiUTS, nilaiUAS;
     return 0;
 }
