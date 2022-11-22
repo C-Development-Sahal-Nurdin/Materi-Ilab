@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
+    char nama[] = "sahal";
+    printf("Selamat pagi, %s\n", nama); // Tanda semicolon di samping di sebut termintor statement
+    printf("Gutten Morgen!");
+
 }
